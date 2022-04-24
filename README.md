@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Angular
 
 <div>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=dimitritsikaridze&show_icons=true&theme=tokyonight&count_private=true">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitritsikaridze&layout=compact&theme=tokyonight">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dimitritsikaridze&show_icons=true&theme=tokyonight&count_private=true">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitritsikaridze&layout=compact&theme=tokyonight">
 </div>
 
 <!---
