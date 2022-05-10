@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DimitriTsikaridze
+- 👋 Hi, I’m Dimitri Tsikaridze
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning Angular
 
